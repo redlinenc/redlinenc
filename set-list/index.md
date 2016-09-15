@@ -119,7 +119,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **J. MELLENCAMP**
 
 * Hurts So Good
-* R.O.C.K. In The USA
 
 **JOURNEY**
 
