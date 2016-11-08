@@ -1,0 +1,4 @@
+put THUMBNAIL sized images here (115x86)
+2017_1.jpg
+2017_2.jpg
+etc

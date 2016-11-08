@@ -1,0 +1,4 @@
+put full sized images here (800x600)
+2017_1.jpg
+2017_2.jpg
+etc
