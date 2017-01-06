@@ -183,10 +183,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Kiss
 * When Doves Cry
 
-**QUEEN**
-
-* Another One Bites the Dust
-
 **ROLLING STONES**
 
 * Honky Tonk Woman
