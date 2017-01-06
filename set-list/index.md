@@ -30,6 +30,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Fight For Your Right
 
+**BEATLES**
+
+* Saw Her Standing There
+
 **BIG & RICH**
 
 * Save a Horse (Ride a Cowboy)
@@ -50,7 +54,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Bad Name
 * Livin’ On A Prayer
-
 
 **BRYAN ADAMS**
 
@@ -81,10 +84,13 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Exes and Ohs
 
+**EURYTHMICS**
+
+* Sweet Dreams Are Made of These
+
 **FALLOUT BOY**
 
 * Uma Thurman
-
 
 **GEORGE MICHAEL**
 
@@ -143,6 +149,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Workin For The Weekend
 
+**MARVIN GAYE**
+
+* Let's Get It On
 
 **MELISSA ETHERIDGE**
 
@@ -192,6 +201,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **SHANIA TWAIN**
 
 * Man I Feel Like a Woman
+
+**STEVIE NICKS**
+
+* Edge of Seventeen
 
 **SUBLIME**
 
