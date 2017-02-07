@@ -52,7 +52,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **BON JOVI**
 
-* Bad Name
 * Livin’ On A Prayer
 
 **BRYAN ADAMS**
@@ -67,10 +66,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **DEF LEPPARD**
 
 * Pour Some Sugar
-
-**DNCE**
-
-* Cake by the Ocean
 
 **DURAN DURAN**
 
@@ -181,12 +176,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **PRINCE**
 
 * Kiss
-* When Doves Cry
 
 **ROLLING STONES**
 
 * Honky Tonk Woman
-* Satisfaction
 * Start Me Up
 
 **ROMANTICS**
