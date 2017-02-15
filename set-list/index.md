@@ -21,15 +21,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Black Velvet
 
-**ALANIS MORISSETTE**
-
-* You Oughta Know
-
-
-**BEASTIE BOYS**
-
-* Fight For Your Right
-
 **BEATLES**
 
 * Saw Her Standing There
@@ -67,25 +58,13 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Pour Some Sugar
 
-**DURAN DURAN**
-
-* Hungry Like the Wolf
-
 **ED SHEERAN**
 
 * Thinking Out Loud
 
-**ELLE KING**
-
-* Exes and Ohs
-
 **EURYTHMICS**
 
 * Sweet Dreams Are Made of These
-
-**FALLOUT BOY**
-
-* Uma Thurman
 
 **GEORGE MICHAEL**
 
@@ -194,14 +173,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **STEVIE NICKS**
 
 * Edge of Seventeen
-
-**SUBLIME**
-
-* Santeria
-
-**TED NUGENT**
-
-* Cat Scratch Fever
 
 
 **THE OUTFIELD**
