@@ -115,6 +115,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Word Up
 
+**LED ZEPPELIN**
+
+* Whole Lotta Love
+
 **LIT**
 
 * My Own Worst Enemy
@@ -140,6 +144,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Gunpowder and Lead
 
+**PARAMORE**
+
+* I'm Into You
 
 **PAT BENATAR**
 
