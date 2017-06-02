@@ -62,6 +62,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Thinking Out Loud
 
+**ELO**
+
+* Evil Woman
+
 **EURYTHMICS**
 
 * Sweet Dreams Are Made of These
@@ -86,6 +90,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Need You Tonight
 
+**JANET JACKSON**
+
+* Black Cat 
 
 **JETT**
 
@@ -153,6 +160,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Heartbreaker
 * Hit Me With Your Best Shot
 
+**Ohio Players**
+
+* Love Rollercoaster
 
 **PINK**
 
