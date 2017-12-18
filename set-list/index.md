@@ -61,6 +61,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **ED SHEERAN**
 
 * Thinking Out Loud
+* Perfect
 
 **ELO**
 
@@ -69,6 +70,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **EURYTHMICS**
 
 * Sweet Dreams Are Made of These
+
+**FINE YOUNG CANNIBALS**
+
+* She Drives Me Crazy
 
 **GEORGE MICHAEL**
 
@@ -151,6 +156,14 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Gunpowder and Lead
 
+**NEIL DIAMOND**
+
+* Sweet Caroline
+
+**NO DOUBT**
+
+* I'm Just A Girl
+
 **PARAMORE**
 
 * I'm Into You
@@ -159,6 +172,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Heartbreaker
 * Hit Me With Your Best Shot
+
+**PHIL COLLINS**
+
+* Easy Lover
 
 **Ohio Players**
 
@@ -172,6 +189,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **PRINCE**
 
 * Kiss
+
+**ROBERTA FLACK**
+
+* Killing Me Softly
 
 **ROLLING STONES**
 
@@ -214,5 +235,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **ZZ TOP**
 
-* La Grange
+* Give Me All Your Lovin
+* Sharp Dressed Man
 * Tush
