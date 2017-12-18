@@ -75,6 +75,13 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * She Drives Me Crazy
 
+**FLEETWOOD MAC**
+
+* Edge of Seventeen
+* Dreams
+* Go Your Own Way
+* Rhiannon
+
 **GEORGE MICHAEL**
 
 * Faith
@@ -190,6 +197,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Kiss
 
+**REO SPEEDWAGON**
+
+* Keep On Loving You
+
 **ROBERTA FLACK**
 
 * Killing Me Softly
@@ -207,11 +218,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **SHANIA TWAIN**
 
 * Man I Feel Like a Woman
-
-**STEVIE NICKS**
-
-* Edge of Seventeen
-
 
 **THE OUTFIELD**
 
