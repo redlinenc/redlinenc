@@ -25,14 +25,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Saw Her Standing There
 
-**BIG & RICH**
-
-* Save a Horse (Ride a Cowboy)
-
-**BILLY IDOL**
-
-* Rebell Yell
-
 **BLACK CROWES**
 
 * Hard To Handle
@@ -44,11 +36,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **BON JOVI**
 
 * Livin’ On A Prayer
-
-**BRYAN ADAMS**
-
-* Summer of 69
-
 
 **DAVID BOWIE**
 
@@ -62,14 +49,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Thinking Out Loud
 * Perfect
-
-**ELO**
-
-* Evil Woman
-
-**EURYTHMICS**
-
-* Sweet Dreams Are Made of These
 
 **FINE YOUNG CANNIBALS**
 
@@ -100,11 +79,7 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **INXS**
 
-* Need You Tonight
-
-**JANET JACKSON**
-
-* Black Cat 
+* Need You Tonight 
 
 **JETT**
 
@@ -117,25 +92,26 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 **J. MELLENCAMP**
 
+* Authority Song
 * Hurts So Good
 
 **JOURNEY**
 
-* Don’t Stop Believing
+* Light's
 * Lovin', Touchin', Squeezin'
 * Stone in Love
-
 
 **KID ROCK**
 
 * All Summer Long
 
-**KORN**
+**KIM WILDE**
 
-* Word Up
+* Kids in America
 
 **LED ZEPPELIN**
 
+* Immigrant Song
 * Whole Lotta Love
 
 **LIT**
@@ -146,10 +122,6 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Workin For The Weekend
 
-**MARVIN GAYE**
-
-* Let's Get It On
-
 **MELISSA ETHERIDGE**
 
 * I'm the Only One
@@ -159,17 +131,9 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 
 * Billie Jean
 
-**MIRANDA LAMBERT**
-
-* Gunpowder and Lead
-
 **NEIL DIAMOND**
 
 * Sweet Caroline
-
-**NO DOUBT**
-
-* I'm Just A Girl
 
 **PARAMORE**
 
@@ -180,17 +144,8 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 * Heartbreaker
 * Hit Me With Your Best Shot
 
-**PHIL COLLINS**
-
-* Easy Lover
-
-**Ohio Players**
-
-* Love Rollercoaster
-
 **PINK**
 
-* Raise Your Glass
 * Who Knew
 
 **PRINCE**
@@ -213,11 +168,10 @@ Redline only covers the BEST which is guaranteed to make your experience a truly
 **ROMANTICS**
 
 * Talking in Your Sleep
-* What I Like About You
 
 **SHANIA TWAIN**
 
-* Man I Feel Like a Woman
+* Feel Like a Woman
 
 **THE OUTFIELD**
 
