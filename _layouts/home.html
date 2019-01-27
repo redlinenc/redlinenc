@@ -18,59 +18,6 @@
 			 	{{ content }}
 			</div>
 
-<div id="#fan-quote">
-<h1>What our fans are saying&#8230;</h1>
-{% for quote in site.data.fanquotes %}
-
-<p>
-{{ quote.quote }}<br />
-{{ quote.name }}<br />
-</p>
-{% endfor %} 
-
-</div>
-<p><!-- end #fan-quote --></p>
-
-
-<p><!-- end #home-content --></p>
-		</div>
-<p><!-- end #entry --></p>
-		</div>
- 	</article>
-   </div>
-<p><!-- end #content --></p>
-
-  <div class="widget-area">
-  <aside id="gigpress-2" class="widget widget_gigpress"><h3>Upcoming Shows</h3>
-<ul class="gigpress-listing vcalendar">
-{% for show in site.data.shows %}
-
-<!--- 
-show the next three months of shows: get today's date in seconds, convert to days, add 90
-compare to the show's date in days
---->
-{% capture nowminusdate %}{{'now' | date: '%s' | divided_by: 86400| minus: 1 }}{% endcapture %}
-{% capture nowplusdate %}{{'now' | date: '%s' | divided_by: 86400| plus: 90 }}{% endcapture %}
-{% capture showdate %}{{ show.Date | date: '%s' | divided_by: 86400 }}{% endcapture %}
-{% if nowplusdate > showdate and nowminusdate < showdate %}
-
-<li class="vevent active">
-	<span class="gigpress-sidebar-date">
-    	<span class="gigpress-sidebar-event-date">
-		<abbr class="dtstart" title="{{ show.Date }}">{{ show.Date | date: '%m/%d/%y' }}</abbr>
-		</span>
-        <span class="gigpress-sidebar-time">&nbsp;@&nbsp;{{ show.Time }}</span>
-	</span>
-	<span class="summary">
-	<span class="location gigpress-sidebar-venue"><a href="{{ show.Url }}" target="_blank">{{ show.Venue }}</a></span> 
-	</li>
-{% endif %}
-
-{% endfor %}
-
-</ul>
-</aside>
-</div><!-- end #widget-area -->
 
 </div><!-- end #contentWrap -->
 
